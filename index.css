@@ -1,0 +1,114 @@
+body{
+    padding: 100px;
+    text-align: center;
+    background-color: dimgrey;
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul{
+    margin-left: -45px;
+
+}
+li {
+    list-style: none;
+    display: inline-block;
+}
+ 
+.perkenalan{
+    width: 800px;
+    height: 600px;
+
+    background-color: whitesmoke;
+    margin: auto;
+    padding-top: 20px;
+    border-radius: 10px;
+    border:1px solid turquoise
+   }
+   
+   .img{
+
+    background-image: url(Foto-formal.jpg);
+    background-color: deepskyblue;
+    background-size: cover;
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    margin:0 auto;
+    border: 1px solid blue;
+   }
+   h1{
+      text-align: center;
+       font-size: 15px;
+       margin: auto;
+       color: deepskyblue;
+   }
+   .text {
+    text-align: center;
+    font-size: 15px;
+    margin: 0 auto;
+    color: slategray;
+   }
+
+   p{
+       margin:0 auto;
+       padding-top: 20px;
+       width: 450px;
+       height: auto;
+       color: rgb(117, 172, 144);
+   }
+
+   .tabel{
+    padding: 100px;
+    text-align: center;
+    margin-left: -45px;
+    list-style: none;
+    display: inline-block;  
+    height: 520px;
+    margin: auto;
+    padding-top: 20px;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:root{
+
+   --red: rgb(255, 255, 255);
+   --blue :blue;
+   --YELLOW:gold;
+}
+
+
+
+
+
+
+
+
+
+
+.kotak1{
+    width: max-content;
+    height: max-content;
+    background-color: var(--red) ;
+    display: inline-block;
+    text-align: right;
+    list-style: none;
+    padding: auto;
+}
